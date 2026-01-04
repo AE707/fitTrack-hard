@@ -311,7 +311,7 @@ This project is provided as-is for educational and reference purposes.
 
 ## 👤 Author
 
-**Alaa ElGhoul** - Mechanical Engineering Student, ENIG  
+**Alaa ElGhoul** - Computer Engineering (MSc), ENIG
 Specializations: IoT Systems, Embedded Devices, Robotics
 
 **Other Projects**:
